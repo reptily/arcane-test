@@ -1,0 +1,9 @@
+.docker
+.env
+.idea
+db/mysql/*
+db/redis/*
+db/kafka/*
+db/clickhouse/*
+db/mongodb/*
+logs/*
