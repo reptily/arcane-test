@@ -1,0 +1,6 @@
+*
+!public/
+!.gitignore
+videos/*
+hls/*
+*.video
